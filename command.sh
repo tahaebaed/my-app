@@ -7,3 +7,4 @@
 7- git commit -m "changing logo & link route " # to apply the changes
 8- git push --set-upstream origin update_logo # because there was no upstream on the branch
 9- gh pr create --base main # to create a pull request into main
+# REPO_URL <https://github.com/tahaebaed/my-app>
